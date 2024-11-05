@@ -1,4 +1,4 @@
-import {watchFile, unwatchFile} from 'fs';
+loimport {watchFile, unwatchFile} from 'fs';
 import chalk from 'chalk';
 import {fileURLToPath} from 'url';
 import fs from 'fs'; 
@@ -16,8 +16,8 @@ global.isBaileysFail = false
 global.defaultLenguaje = 'es';
 
 global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
-  ['51940617554', '💫 Mystic - Collaborator 2 💫', true],
+  ['50433436186', '👑 Mystic - Creador 👑', true],
+  ['5219531627349', '💫 Mystic - Collaborator 2 💫', true],
   ['51996089079', '💫 Mystic - Collaborator 3 💫', true],
   ['5218442286089', '💫 Mystic - Collaborator 4 💫', true],
   ['50246028932', '💫 Mystic - Collaborator 5 💫', true],
